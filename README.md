@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust** and **NextJS**
 
-- 📫 How to reach me **hi@aldeus.net**
+- 📫 How to reach me **hi@alperenalbayrak.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
